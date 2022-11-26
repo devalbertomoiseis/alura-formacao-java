@@ -1,4 +1,4 @@
-package java.jre.jdk;
+package alura.primeiro.curso;
 
 public class PrimeiroPrograma {
     public static void main(String[] args) {
